@@ -31,7 +31,7 @@ Este repositorio presenta una serie de proyectos prácticos de análisis de dato
 ├── Proyecto 5.ipynb → Comportamiento y retención en telecomunicaciones
 ├── Proyecto 6.ipynb → Tendencias y modelo predictivo en videojuegos
 └── README.md        → Descripción del portafolio
-
+```
 📝 Descripción de Proyectos
 🎵 Proyecto 3: Análisis de datos musicales
 - Objetivo: Comparar el comportamiento musical de usuarios en distintas ciudades.
