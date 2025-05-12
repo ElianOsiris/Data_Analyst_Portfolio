@@ -1,7 +1,7 @@
 # Data_Analyst_Portfolio
 This is the proof that I've learned and the evidence that I know how to be a Data Analyst
 
-# 📊 Data Analyst Portfolio – Elian [Tu Apellido]
+# 📊 Data Analyst Portfolio – Elian Ositis Luna Gaxiola
 
 Este repositorio presenta una serie de proyectos prácticos de análisis de datos, desarrollados con Python y pandas, orientados a resolver problemas reales en distintos sectores como música, retail, telecomunicaciones y videojuegos. Cada proyecto aplica el ciclo completo de análisis: carga, limpieza, transformación, visualización y obtención de conclusiones.
 
