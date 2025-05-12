@@ -75,4 +75,5 @@ Este repositorio presenta una serie de proyectos prácticos de análisis de dato
 Soy un analista de datos ubicado en México, con enfoque en la industria internacional. Este portafolio muestra mis capacidades técnicas y mi mentalidad orientada a resultados. Busco oportunidades remotas o híbridas como Data Analyst en EE.UU.
 
 📬 Contacto
+
 📧 ElianOsirisLunaGaxiola@gmail.com
